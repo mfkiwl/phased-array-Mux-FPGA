@@ -1,0 +1,12 @@
+A is direction along x axis
+B is that along y axis
+Ia is initial firing 
+Ib is x delay later
+Ic is y delay later
+Id is x+y delay later
+
+Diagram: 
+
+OA.   OB
+
+OC.   OD
